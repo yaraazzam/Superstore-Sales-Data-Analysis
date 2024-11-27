@@ -1,9 +1,9 @@
+# Sales Performance Analysis
 ## Table of Contents
 - Project Overview
 - Data Sources
 - Recommendations
 ### Project Overview
-# Sales Performance Analysis
 
 ## Project Overview
 This project focuses on analyzing sales performance using Tableau. The dataset includes sales, customer, and shipping information, which we visualize to derive meaningful insights. The main objectives are:
